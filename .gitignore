@@ -1,5 +1,19 @@
-.venv/
+# Python cache files
 __pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+.uv/
+
+# Environment variables (YOUR API KEY!)
 .env
-data/
-requirements.lock
+
+# Data files
+data/vectorstore/
+*.faiss
+
+# IDE and OS
+.vscode/
+.DS_Store
