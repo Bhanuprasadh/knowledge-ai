@@ -1,0 +1,26 @@
+Python Programming Language
+===========================
+
+Python is a high-level, interpreted programming language created by Guido van Rossum in 1991. It emphasizes code readability and allows programmers to express concepts in fewer lines of code.
+
+Key Features:
+- Easy to learn and read
+- Versatile: used for web development, data science, machine learning
+- Large ecosystem of libraries
+
+
+Machine Learning Basics
+========================
+
+Machine learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed.
+
+Types of Machine Learning:
+1. Supervised Learning - learns from labeled data
+2. Unsupervised Learning - finds patterns in unlabeled data
+3. Reinforcement Learning - learns through trial and error
+
+
+Neural Networks
+===============
+
+Neural networks are computing systems inspired by biological neural networks. They consist of layers of interconnected nodes that process information.

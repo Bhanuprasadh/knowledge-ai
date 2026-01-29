@@ -12,6 +12,7 @@ venv/
 
 # Data files
 data/vectorstore/
+data/raw/
 *.faiss
 
 # IDE and OS
